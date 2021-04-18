@@ -8,5 +8,5 @@ Uses `LNApplicationProxy`, `LNBundleProxy` from CoreServies.framework (MobileCor
 
 Made with SwiftUI, iOS 14+ only.
 
-## Acknowledgements
+## Acknowledgments
 Uses code derived from [libhooker-configurator](https://github.com/coolstar/libhooker-configurator) and [AppExplorer](https://github.com/joncardasis/AppExplorer)
