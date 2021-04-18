@@ -1,0 +1,52 @@
+---
+path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64-apple-ios.swiftmodule'
+dependencies:
+  - mtime:           1610127238000000000
+    path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64-apple-ios.swiftmodule'
+    size:            17180
+  - mtime:           1606722785000000000
+    path:            'usr/include/Darwin.apinotes'
+    size:            1133
+    sdk_relative:    true
+  - mtime:           1606722786000000000
+    path:            'usr/include/mach-o/dyld.modulemap'
+    size:            71
+    sdk_relative:    true
+  - mtime:           1606722786000000000
+    path:            'usr/include/mach-o/compact_unwind_encoding.modulemap'
+    size:            109
+    sdk_relative:    true
+  - mtime:           1606713445000000000
+    path:            'usr/include/objc/ObjectiveC.apinotes'
+    size:            11147
+    sdk_relative:    true
+  - mtime:           1606713443000000000
+    path:            'System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    size:            54819
+    sdk_relative:    true
+  - mtime:           1606722783000000000
+    path:            'System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    size:            162
+    sdk_relative:    true
+  - mtime:           1606713447000000000
+    path:            'System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    size:            80916
+    sdk_relative:    true
+  - mtime:           1606722782000000000
+    path:            'System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes'
+    size:            1192
+    sdk_relative:    true
+  - mtime:           1606722782000000000
+    path:            'System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes'
+    size:            63316
+    sdk_relative:    true
+  - mtime:           1606722783000000000
+    path:            'System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes'
+    size:            7428
+    sdk_relative:    true
+  - mtime:           1610099272000000000
+    path:            'usr/lib/swift/QuartzCore.swiftmodule/arm64-apple-ios.swiftinterface'
+    size:            969
+    sdk_relative:    true
+version:         1
+...

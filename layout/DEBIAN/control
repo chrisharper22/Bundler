@@ -1,0 +1,9 @@
+Package: com.simalary.bundler
+Name: Bundler
+Version: 0.4
+Architecture: iphoneos-arm
+Description: Browse application info.
+Maintainer: Simalary (Chris) <19harperc@gmail.com>
+Author: Simalary (Chris) <19harperc@gmail.com>
+Section: Utilities
+Depends: ${LIBSWIFT}, firmware (>= 14.0)

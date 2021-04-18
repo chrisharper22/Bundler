@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>A62EEBE8-7410-4543-A9D1-2DF080DDEABD</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A62EEBE8-7410-4543-A9D1-2DF080DDEABD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bundler project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bundler</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archiving project Bundler with scheme Bundler</string>
+			<key>timeStartedRecording</key>
+			<real>640411811.65991294</real>
+			<key>timeStoppedRecording</key>
+			<real>640411825.41344297</real>
+			<key>title</key>
+			<string>Archiving project Bundler with scheme Bundler</string>
+			<key>uniqueIdentifier</key>
+			<string>A62EEBE8-7410-4543-A9D1-2DF080DDEABD</string>
+		</dict>
+		<key>F124A89B-BEF9-4C1D-A3F8-BA87488CD905</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F124A89B-BEF9-4C1D-A3F8-BA87488CD905.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Bundler project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Bundler</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archiving project Bundler with scheme Bundler</string>
+			<key>timeStartedRecording</key>
+			<real>640411676.48976803</real>
+			<key>timeStoppedRecording</key>
+			<real>640411692.21786296</real>
+			<key>title</key>
+			<string>Archiving project Bundler with scheme Bundler</string>
+			<key>uniqueIdentifier</key>
+			<string>F124A89B-BEF9-4C1D-A3F8-BA87488CD905</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

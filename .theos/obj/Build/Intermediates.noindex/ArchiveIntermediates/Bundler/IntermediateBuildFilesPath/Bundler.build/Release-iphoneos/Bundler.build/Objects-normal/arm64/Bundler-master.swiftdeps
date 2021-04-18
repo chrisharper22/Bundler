@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "7a9b0c67ba0d5b16f16658c510dbe44f"
+build_time: [1618719016, 880961000]
+inputs:
+  "/Users/harperch/Documents/Projects/Bundler/Bundler/Data/Classes/EmbeddableApplicationManager.swift": [9223372036, 854775807]
+  "/Users/harperch/Documents/Projects/Bundler/Bundler/Data/Classes/Application.swift": [9223372036, 854775807]
+  "/Users/harperch/Documents/Projects/Bundler/Bundler/Data/Classes/ApplicationManager.swift": [9223372036, 854775807]
+  "/Users/harperch/Documents/Projects/Bundler/Bundler/Views/ApplicationListView.swift": [9223372036, 854775807]
+  "/Users/harperch/Documents/Projects/Bundler/Bundler/Views/ApplicationDetailView.swift": [9223372036, 854775807]
+  "/Users/harperch/Documents/Projects/Bundler/Bundler/BundlerApp.swift": [9223372036, 854775807]
+  "/Users/harperch/Documents/Projects/Bundler/Bundler/Data/Classes/SearchBar/SearchBar.swift": [9223372036, 854775807]
+  "/Users/harperch/Documents/Projects/Bundler/Bundler/Views/ApplicationItemRow.swift": [9223372036, 854775807]

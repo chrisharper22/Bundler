@@ -11,7 +11,8 @@ import SwiftUI
 struct BundlerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ApplicationListView()
+                .accentColor(Color(.systemPink))
         }
     }
 }
